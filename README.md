@@ -1,4 +1,5 @@
 # Color Picker
+[Demo](https://smaranh.github.io/Color-Theme-Switcher)
 
 ## What I learned
 
